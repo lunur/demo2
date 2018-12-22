@@ -7,5 +7,5 @@ public String getUserName(){
 }
 
 public void method(){
-	//hello
+	//hello п║уе
 }
