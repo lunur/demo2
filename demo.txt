@@ -6,3 +6,6 @@ public String getUserName(){
 	return "п║уе";
 }
 
+public void method(){
+	//hello
+}
