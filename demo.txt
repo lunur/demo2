@@ -3,3 +3,6 @@
 小张修改了第三行代码
 小王修改了第三行代码
 
+public void method(){
+	//hello
+}
